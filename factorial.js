@@ -16,3 +16,5 @@ function factorial(i) {
 }
 const result = factorial(5);
 console.log(result);
+
+// Recursion holo akta function ka  oi same function ka call korer procria ka factorial bola.
